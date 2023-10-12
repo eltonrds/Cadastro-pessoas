@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="334cd961-51a3-42ce-9bf6-61bff1a6cfbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CadastroPessoa/CadastroPessoa.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CadastroPessoa/src/Endereco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CadastroPessoa/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CadastroPessoa/src/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CadastroPessoa/src/PessoaFisica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CadastroPessoa/src/PessoaJuridica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PessoaJuridica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PessoaJuridica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CadastroPessoa/src/PessoaFisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/CadastroPessoa/src/PessoaFisica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PessoaFisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PessoaFisica.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +34,9 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2WMeNkdVUQGDnAG8mvkrYMVzRYp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -59,6 +54,8 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -85,6 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696546856877</updated>
       <workItem from="1696891856673" duration="800000" />
+      <workItem from="1697066701385" duration="1943000" />
     </task>
     <servers />
   </component>
@@ -101,5 +99,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CadastroPessoa/src/PessoaFisica.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

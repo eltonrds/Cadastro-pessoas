@@ -80,13 +80,15 @@ public class Main {
 
                                 listaPf.add(novaPf);
 
+                                metodoPf.CadastrarPf(novaPf);
+
                                 System.out.println("Cadastro realizado com sucesso!");
 
                                 break;
 
                             case "2":
 
-                                if (listaPf.size() > 0) {
+                                if (metodoPf.listaPf.size() > 0) {
 
                                     for (PessoaFisica cadaPf : listaPf) {
                                         System.out.println("Nome: " + cadaPf.nome);
